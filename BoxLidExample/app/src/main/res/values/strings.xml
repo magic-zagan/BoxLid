@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">时光宝盒</string>
+    <string name="exit_to_app">再按一次退出程序\n点击任意区域打开盒子</string>
+</resources>
