@@ -1,7 +1,7 @@
 BoxLid
 ======
 一个自定义的欢迎动画。
-![效果预览](https://github.com/haoking/boxlid/master/screenshots/boxlid.gif)
+![效果预览](https://github.com/nextdever/BoxLid/tree/master/screenshots/boxlid.gif)
 
 Download
 ========
