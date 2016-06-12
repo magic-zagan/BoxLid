@@ -7,10 +7,14 @@ Download
 ========
 只需要将BoxLid.java拷贝到自己的项目中即可。
 
+Geek Chat
+=========
+QQ交流群：[Geek Chat 344386592](http://shang.qq.com/wpa/qunwpa?idkey=cfd6a30418de3263ff96d94798724ddfbab52aa176d8b77eab004bf5f8dd1d5f)
+
 License
 =======
 
-    Copyright 2013 Square, Inc.
+    Copyright 2016 HaoKing.
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
